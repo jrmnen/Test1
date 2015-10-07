@@ -3,7 +3,7 @@ Suite Setup
 Suite Teardown
 Library           Selenium2Library
 Library           python_keyword_library
-Resource          MyKeywordResources.robot
+Resource          MyKeywordResources.robot  
 
 *** Comments ***
 Performance statistics test

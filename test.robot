@@ -15,4 +15,5 @@ ${adress}         http://qa-elbasweb1/
 Test Case 1
     [Tags]  IE
     Login With Admin User  ${BROWSER}
+    Sleep  10
     [Teardown]  Close Browser

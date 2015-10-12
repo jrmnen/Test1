@@ -10,6 +10,7 @@ Performance statistics test
 
 *** Variables ***
 ${adress}         http://qa-elbasweb1/
+${BROWSER}		  chrome
 
 *** Test Cases ***
 Test Case 1
